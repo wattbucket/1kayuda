@@ -1,0 +1,72 @@
+
+# Social section
+social:
+  website: https://1kwm2.com
+  github: https://github.com/1kwm2/
+  twitter: https://twitter.com/1kwm2/
+  linkedin:  
+  facebook:  
+  dev: 
+  medium: 
+
+
+
+
+
+
+
+
+# Talks and workshops section
+workshops:
+  item0:
+    event: PCT-C-REV - julio 2011
+    workshop: IDAEInstituto para la Diversificación y Ahorro de la Energía
+    material:
+    link: https://www.idae.es/uploads/documentos/documentos_5654_FV_pliego_condiciones_tecnicas_instalaciones_conectadas_a_red_C20_Julio_2011_3498eaaf.pdf
+  item1:
+    event: REBT
+    workshop: REGLAMENTO ELECTROTÉCNICO PARA BAJA TENSIÓN E INSTRUCCIONES TÉCNICAS COMPLEMENTARIAS (ITC) BT 01 A BT 51
+    material: 
+    link: http://www.iet.es/wp-content/uploads/2013/03/REGLAMENTO-RBT-SEPT-2003.pdf
+
+  item2:
+    event: DocumentoB·sico HE Ahorro de EnergÌa
+    workshop: SecciÛn HE 5 ContribuciÛn fotovoltaica mÌnima de energÌa elÈctrica
+    material: 
+    link: https://www.coit.es/system/files/link_group/he_5_contribucion_fotovoltaica_minima_de_energia_electrica_77f479a7.pdf
+
+
+
+# Projects section
+projects:
+  item2:
+    title: PVGIS
+    subtitle: Photovoltaic Geographical Information System
+    description:  PVGIS provides free and open access to
+      - PV potential for different technologies and configurations of grid connected and stand alone systems.
+      - Solar radiation and temperature, as monthly averages or daily profiles.
+      - Full time series of hourly values of both solar radiation and PV performance.
+      - Typical Meteorological Year data for nine climatic variables.
+      - Maps, by country or region, of solar resource and PV potential ready to print.
+      - PVMAPS software includes all the estimation models used in PVGIS.
+
+    link: https://ec.europa.eu/jrc/en/pvgis.png
+    github: 
+    img: pvgis.png
+    tags: [libre, europeo]
+  item3:
+    title: Sunny Design.
+    subtitle: Proyecte su planta fotovoltaica de forma muy sencilla y conozca las posibilidades de Sunny Design.
+    description: Los usuarios registrados tienen a su disposición una gestión de proyectos gratuita. Además, podrá crear módulos fotovoltaicos, emplazamientos, perfiles de carga y plantillas de proyecto propios.
+    link: https://www.sunnydesignweb.com/sdweb/#/
+    github: 
+    img: sunny.png
+    tags: [comercial]
+  item4:
+    title: NREL's PVWatts® Calculator
+    subtitle: A CNN served as a web platform
+    description: Estimates the energy production and cost of energy of grid-connected photovoltaic (PV) energy systems throughout the world. It allows homeowners, small building owners, installers and manufacturers to easily develop estimates of the performance of potential PV installations. 
+    link: https://pvwatts.nrel.gov/
+    github: 
+    img: nrel.png
+    tags: [libre, americano]
