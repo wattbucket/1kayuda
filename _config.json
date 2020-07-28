@@ -31,6 +31,7 @@
             "type": "text/x-moz-place-container",
             "root": "toolbarFolder",
             "children": [
+                
                 {
                     "guid": "oDW7Jjo-UCBj",
                     "title": "Getting Started",
